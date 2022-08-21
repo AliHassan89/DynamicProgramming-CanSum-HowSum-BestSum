@@ -1,4 +1,5 @@
-# DynamicProgramming-CanSum-HowSum-BestSum
+# DynamicProgramming
+
 
 Question:
 
